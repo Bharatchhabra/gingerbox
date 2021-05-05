@@ -8,7 +8,7 @@ small{color: #007bff;font-size: 14px;}
 label{color: #007bff}
 #content {padding-top: 20px;}
 .text-danger{color: #dc3545}
-
+.border-primary{border:2px solid;padding: 15px 30px 30px;}
 /*#content textarea{width: 500px;}*/
 textarea{width:100%;height: 200px;padding: 10px;border-color: #007bff;}
 .btn_primary{background-color: #007bff;color: #FFFFFF}
