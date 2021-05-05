@@ -1,0 +1,27 @@
+body{font-family: 'Poppins';color: #007bff}
+.header{background-color: #007bff;color: #fff;padding: 30px 40px;margin-bottom: 20px;text-transform: uppercase;}
+.left-side{text-transform: uppercase;}
+.right-side{font-size: 20px;text-align: right;}
+.right-side a{color: #FFFFFF}
+.form-control{color: #007bff}
+small{color: #007bff;font-size: 14px;}
+label{color: #007bff}
+#content {padding-top: 20px;}
+.text-danger{color: #dc3545}
+
+/*#content textarea{width: 500px;}*/
+textarea{width:100%;height: 200px;padding: 10px;border-color: #007bff;}
+.btn_primary{background-color: #007bff;color: #FFFFFF}
+.btn_primary:hover{color:#fff;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
+.btn-primary{padding: .3rem 3rem;text-transform: uppercase;}
+.btn-primary:hover{box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
+.border{margin-bottom:10px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);background-color:#F8F9FC}
+select{font-size: 16px}
+a, a:hover{color: #FFFFFF}
+.fa-angle-left{padding-right: 25px}
+h5{margin-top: 5px}
+@media only screen and (max-width: 600px) {
+ .header {
+    padding: 10px;
+  }
+}
